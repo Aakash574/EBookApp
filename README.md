@@ -11,10 +11,6 @@ The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
 <br>
 <a href="https://www.vecteezy.com/vector-art/599678-book-reading-logo-and-symbols-template-icons">App
 icon</a> <br> <br>
-To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build">click here</a> to see the codemagic builds. You can choose to install the `apk`.
-You can download from the appstore if you use an iPhone, iPad or a Mac with Silicon chip.
-<br>
-<a href="https://apps.apple.com/app/openleaf/id6450374275"><img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png" width="200"></img></a>
 <br> Please star⭐ the repo if you like what you see😉.
 
 ## 💻 Requirements
@@ -61,13 +57,5 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 
 ## 🤓 Author(s)
 
-**Festus Babajide Olusegun**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
-
-<a href="https://github.com/JideGuru/FlutterEbookApp">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date">
-      </a>
+**Aakash Panwar**
+[![Twitter Follow]([https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru](https://twitter.com/__A_a_k_a_s_h_)https://twitter.com/__A_a_k_a_s_h_)
