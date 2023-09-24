@@ -58,4 +58,4 @@ icon</a> <br> <br>
 ## 🤓 Author(s)
 
 **Aakash Panwar**
-[![Twitter Follow]([https://twitter.com/__A_a_k_a_s_h_)](https://twitter.com/iamjideguru]
+[![Twitter Follow](https://twitter.com/__A_a_k_a_s_h_)
